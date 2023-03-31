@@ -20,7 +20,10 @@ bp.skip_windows = []
 bp.window_height = 50
 
 bp.make()
-bunker = bp.build_plate()
+body = bp.build_body()
+roof = bp.build_roof()
 
-#show_object(bunker)
-cq.exporters.export(bunker, 'stl/gothic_pedastal_roof_interior_plate.stl')
+
+show_object(body)
+#cq.exporters.export(body, 'stl/gothic_pedastal_body.stl')
+#cq.exporters.export(roof, 'stl/gothic_pedastal_roof.stl')
