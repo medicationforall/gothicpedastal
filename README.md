@@ -2,11 +2,16 @@
 
 ## Solid Pedastal
 
+* Length 200mm
+* Width 200mm
+* Height 150mm
+
 ![](image/gothic_pedastal_01.png)
 * [code](code/gothic_pedastal.py)
 * [stl render](stl/gothic_pedastal.stl)
 
 ![](image/gothic_pedastal_02.png)<br />
+With an inset of 10mm the top is 180mm x 180mm
 
 
 ## With Roof
