@@ -29,3 +29,12 @@ With an inset of 10mm the top is 180mm x 180mm
 ![](image/gothic_pedastal_04_with_interior_and_tiles.png)
 * [code](code/gothic_pedastal_roof.py)
 * [stl render](stl/gothic_pedastal_interior_windows.stl)
+
+## Proposed Model
+
+![](image/gothic_pedastal_06_roof_with_interior_tiles.png)
+* [code](code/gothic_pedastal_roof_interior.py)
+* [stl render](stl/gothic_pedastal_roof_interior.stl)
+
+![](image/gothic_pedastal_07_roof_with_interior_tiles.png)
+* [stl render](stl/gothic_pedastal_roof_interior_plate.stl)
