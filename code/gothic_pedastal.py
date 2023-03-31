@@ -4,7 +4,7 @@ from skirmishbunker import Bunker
 bp = Bunker()
 bp.length = 200
 bp.width = 200
-bp.height = 150
+bp.height = 140
 bp.base_height=10
 bp.inset=10
 bp.render_floor_tiles = False
@@ -21,4 +21,4 @@ bp.make()
 bunker = bp.build()
 
 show_object(bunker)
-#cq.exporters.export(bunker, 'bunker_pedastal.stl')
+cq.exporters.export(bunker, 'stl/gothic_pedastal.stl')
