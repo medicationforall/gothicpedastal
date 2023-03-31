@@ -42,3 +42,8 @@
 
 
 ---
+## Arch Body Option
+![](image/gothic_pedastal_10_arch.png)<br /><br />
+![](image/gothic_pedastal_11_arch.png)
+
+* [stl render](stl/gothic_pedastal_arch.stl)
